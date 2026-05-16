@@ -65,3 +65,7 @@ Spam Message
 
 ## Author
 Saurabh Kumar
+
+## Project Screenshot
+
+![Output](output.png)
