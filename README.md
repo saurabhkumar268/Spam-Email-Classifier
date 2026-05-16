@@ -80,8 +80,8 @@ Spam Message
 ---
 
 ## Project Screenshot
+<img width="632" height="334" alt="image" src="https://github.com/user-attachments/assets/ba679ee0-a168-451b-b921-441ad8755f7f" />
 
-<img width="700" alt="Output" src="https://github.com/saurabhkumar268/Spam-Email-Classifier/blob/main/output.png">
 
 ---
 
