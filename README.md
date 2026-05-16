@@ -58,7 +58,7 @@ Spam Prediction
 ## Example Output
 
 ```text
-Accuracy: 0.98
+Accuracy: 0.97
 
 Spam Message
 ```
